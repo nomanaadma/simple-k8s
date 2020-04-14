@@ -7,6 +7,6 @@ metadata:
 spec:
     containers:
       - name: client
-        image: nomanaadma/multi-worker
+        image: nomanaadma/multi-client
         ports:
             - containerPort: 9999
